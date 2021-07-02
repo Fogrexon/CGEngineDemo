@@ -1,0 +1,2 @@
+# ParcelTemplate
+Parcelで必要なファイルが全部入ってるテンプレート

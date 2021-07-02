@@ -1,0 +1,23 @@
+{
+  "name": "parceltemplate",
+  "version": "1.0.0",
+  "description": "Template repository for parcel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel public/index.html",
+    "build": "parcel build public/index.html --public-url ./docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fogrexon/ParcelTemplate.git"
+  },
+  "author": "Fogrexon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fogrexon/ParcelTemplate/issues"
+  },
+  "homepage": "https://github.com/Fogrexon/ParcelTemplate#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
